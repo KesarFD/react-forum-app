@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-forum-app/static/css/main.1002ba13.css",
+    "main.js": "/react-forum-app/static/js/main.59515af6.js",
+    "index.html": "/react-forum-app/index.html",
+    "main.1002ba13.css.map": "/react-forum-app/static/css/main.1002ba13.css.map",
+    "main.59515af6.js.map": "/react-forum-app/static/js/main.59515af6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1002ba13.css",
+    "static/js/main.59515af6.js"
+  ]
+}
